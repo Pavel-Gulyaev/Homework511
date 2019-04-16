@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework 5_1_1</string>
+    <string name="homework211_title">Оплата</string>
+    <string name="homework211_subtitle">homework 2-1-1</string>
+    <string name="homework212_title">Страны-города-улицы</string>
+    <string name="homework212_subtitle">homework 2-1-2</string>
+    <string name="homework213_title">Сроки задачи</string>
+    <string name="homework213_subtitle">homework 2-1-3</string>
+    <string name="homework221_title">Записная книжка</string>
+    <string name="homework221_subtitle">homework 2-2-1</string>
+    <string name="button">Delete</string>
+    <string name="button_add">ADD NEW DATA</string>
+    <string name="title_text">New title:</string>
+    <string name="subtitle_text">New subtitle</string>
+    <string name="add_error">Введите данные</string>
+
+
+</resources>
